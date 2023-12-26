@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+ba19199028249996723b1a81c9d76d02 CMakeFiles/MyFullScreenApp_autogen
+ba19199028249996723b1a81c9d76d02 CMakeFiles/MyFullScreenApp_autogen_timestamp_deps
+d487911a9bfeca3dd412595a987a9dc7 MyFullScreenApp_autogen/timestamp

@@ -1,0 +1,5 @@
+/home/fajarjulyana/Downloads/aplikasi-gui/build/CMakeFiles/MyFullScreenApp.dir
+/home/fajarjulyana/Downloads/aplikasi-gui/build/CMakeFiles/edit_cache.dir
+/home/fajarjulyana/Downloads/aplikasi-gui/build/CMakeFiles/rebuild_cache.dir
+/home/fajarjulyana/Downloads/aplikasi-gui/build/CMakeFiles/MyFullScreenApp_autogen_timestamp_deps.dir
+/home/fajarjulyana/Downloads/aplikasi-gui/build/CMakeFiles/MyFullScreenApp_autogen.dir
